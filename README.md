@@ -95,10 +95,10 @@ The main features of the application are:
 * See Artist's details;
 * Search albums, musics and artists.
 
-  ## Version
-  1.0.0.0
+ ## Version
+ 1.0.0.0
 
-  ## Authors
+ ## Authors
   * **Lucas Diniz** 
 
-  Thanks for the visit!
+ Thanks for the visit!

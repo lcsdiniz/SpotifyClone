@@ -1,8 +1,24 @@
 <h1 align="center">
     <img alt="" title="" src="app/javascript/assets/images/logo.png">
 </h1>
+<p align="center">
+  <img alt="GitHub language Count" src="https://img.shields.io/github/languages/count/lcsdiniz/SpotifyClone">
 
-## SpotCode
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/lcsdiniz/SpotifyClone">
+	
+  <a href="https://www.linkedin.com/in/lucas-diniz-santos-henrique-3aa825157/">
+    <img alt="Created by Lucas Diniz" src="https://img.shields.io/badge/Created%20by-Lucas%20Diniz-blueviolet">
+  </a>
+
+  <a>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lcsdiniz/SpotifyClone">
+  </a>
+
+  <a>
+    <img alt="Javascript^^" src="https://img.shields.io/github/languages/top/lcsdiniz/SpotifyClone">
+  </a>
+  <img alt="Stars <3" src="https://img.shields.io/github/stars/lcsdiniz/SpotifyClone?style=social">
+</p>
 SpotCode is an app clone of Spotify made during the weekcode of OneBitCode with Ruby and ReactJS for its back-end and front-end, respectively. In this application, it's possible to search and see artists, albums and their music.
 
 ## Technologies
